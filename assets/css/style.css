@@ -38,7 +38,6 @@
 .main-slider {
 	position: relative;
 	overflow: hidden;
-	padding-left: var(--padding-left-90);
 }
 
 .main-slider .slide {
@@ -1534,6 +1533,7 @@
 	position: relative;
 	overflow: hidden;
 	padding-bottom: var(--padding-bottom-80);
+	padding-top: var(--padding-top-40);
 }
 
 .quality-section .color-one {
