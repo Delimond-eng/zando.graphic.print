@@ -3306,6 +3306,7 @@
 .services-section-four {
 	position: relative;
 	padding: 70px 0px 100px;
+	background-color: var(--color-fourtythree);
 }
 
 .services-section-four .color-one {

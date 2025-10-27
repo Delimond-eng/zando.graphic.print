@@ -350,7 +350,6 @@
 	top: 30px;
 	height: 2px;
 	width: 240px;
-	background-color: var(--white-color);
 }
 
 .main-footer .lower-box .info-box:last-child::before {
